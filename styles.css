@@ -184,6 +184,7 @@ p {
 
   .price__component > div:first-of-type {
     grid-column: span 2;
+    gap: 1.25rem;
   }
 
   .price__component--join p {
